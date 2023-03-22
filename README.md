@@ -38,12 +38,15 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+A Yolanda la hicimos una persona familiar y activa para poder presentar el problema de reservar para niños. 
+A Marcos lo hicimos para poder ver la perspectiva de un chico con problemas de movilidad
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Con Yolanda quisimos mostrar la frustración que se puede dar al no poder resevar para más de dos niños
+Con Marcos tratamos de hacer una experiencia más despreocupada
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
