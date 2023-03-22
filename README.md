@@ -5,7 +5,7 @@ Grupo: DIU1_01AABB.  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Titanio
 
 Descripción: 
 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Elena Álvarez Sánchez    :octocat:     
+ * :bust_in_silhouette:  Carlos Moreno Villarrubia     :octocat:
 
 ----- 
 
