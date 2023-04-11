@@ -1,7 +1,28 @@
 ## DIU - Practica1, entregables
 
+1.a Competitive Analysis
+-----
 
+>>>
 
+1.b Persona
+-----
+
+>>>A Yolanda la hemos escogido para poder representar a una persona con una vida estable y mucha familia y así ver uno de los fallos de la página: la imposibilidad de hacer las reservas para más de 2 niños. 
+
+>>>A Marcos lo hemos escogido para poder desarrollar la perspectiva de un chico con un nivel económico más bajo y con problemas de movilidad.
+
+1.c User Journey Map
+----
+
+>>>Para Yolanda, hicimos una experiencia de usuario negativa motivada por la imposibilidad de hacer la reserva para todos sus sobrinos. 
+
+>>>Para Marcos, hicimos una experiencia más amena, con la única dificultad en encontrar el botón para realizar la reserva. 
+
+1.d Usability Review
+----
+
+>>>
 
 - Desk research: Análisis Competencia 
 - 2 Personas 
@@ -11,10 +32,6 @@
 
 (valoración y conclusiones de esta etapa)
 
-
->>> Por qué escogimos estas personas
-A Yolanda la hicimos una persona familiar y activa para poder presentar el problema de reservar para niños. 
-A Marcos lo hicimos para poder ver la perspectiva de un chico con problemas de movilidad
 
 >>> Por qué hemos escogidos estas experiencias de usuario
 Con Yolanda quisimos mostrar la frustración que se puede dar al no poder resevar para más de dos niños
