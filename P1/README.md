@@ -1,29 +1,39 @@
 ## DIU - Practica1, entregables
 
-1.a Competitive Analysis
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
 >>>
 
-1.b Persona
+![Método UX](../img/Persona.png) 1.b Persona
 -----
 
 >>>A Yolanda la hemos escogido para poder representar a una persona con una vida estable y mucha familia y así ver uno de los fallos de la página: la imposibilidad de hacer las reservas para más de 2 niños. 
 
+![Método UX](../img/Yolanda_ficha.png) 
+
 >>>A Marcos lo hemos escogido para poder desarrollar la perspectiva de un chico con un nivel económico más bajo y con problemas de movilidad.
 
-1.c User Journey Map
+![Método UX](../img/Marcos_ficha.png) 
+
+![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
 >>>Para Yolanda, hicimos una experiencia de usuario negativa motivada por la imposibilidad de hacer la reserva para todos sus sobrinos. 
 
+![Método UX](../img/Yolanda_experiencia.png) 
+
 >>>Para Marcos, hicimos una experiencia más amena, con la única dificultad en encontrar el botón para realizar la reserva. 
 
-1.d Usability Review
+![Método UX](../img/Yolanda_experiencia.png) 
+
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
 >>>
 
+
+***BORRAR***
 - Desk research: Análisis Competencia 
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
