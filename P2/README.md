@@ -59,33 +59,6 @@
 
 ![Método UX](../img/Website_Mockup.png)
 
-## DIU - Practica2, entregables
+## Valoración de esta etapa
 
-### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
-
-### PROPUESTA DE VALOR
-* ScopeCanvas
-
-
-### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
-
-
-### ARQUITECTURA DE INFORMACIÓN
-
-* Sitemap 
-* Labelling 
-
-
-### Prototipo Lo-FI Wireframe 
-
-
-### Conclusiones  
-(incluye valoración de esta etapa)
-
+>>> En esta etapa hemos aprendido a utilizar las herramientas de UX para crear una pagina web que sea intuitiva y facil de usar para los usuarios. Hemos aprendido a crear un scope canvas, a crear un sitemap y a crear un labelling. Tambien hemos aprendido a crear un wireframe y a utilizar la herramienta de Figma para crearlo.
