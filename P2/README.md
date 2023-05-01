@@ -32,6 +32,8 @@
 
 ![Método UX](../img/Website_Flowchart_Template.png)
 
+>>> Los términos seleccionados para etiquetar nuestra aplicación reflejan de manera concisa sus funciones y secciones principales, facilitando la navegación y el acceso rápido a áreas de interés. Estas etiquetas abarcan búsqueda de restaurantes, promociones, contenido relevante y soporte, ofreciendo una experiencia de usuario clara y coherente.
+
 | Label                     | Scope Note                                                                                          |
 |---------------------------|----------------------------------------------------------------------------------------------------|
 | Login/Sing in             | Permite a los usuarios acceder/registrase en la plataforma con su cuenta de la página o con su cuenta de Google o IOS. |
@@ -44,22 +46,12 @@
 | Blog                      | Contiene artículos y noticias relacionadas con restaurantes, gastronomía y tendencias culinarias.  |
 | About Us                  | Incluye información sobre la historia de la empresa, el equipo, términos de uso y política de privacidad. |
 | Help                      | Ofrece recursos de ayuda como preguntas frecuentes y opciones de contacto para los usuarios.       |
-| Social Media              | Enlaces a las redes sociales de TheFork para que los usuarios puedan seguir y conectarse.          |
-
-
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+| Social Media              | Enlaces a las redes sociales de la aplicacion para que los usuarios puedan seguir y conectarse.          |
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Este mockup es muy similar al de otras paginas que ya existen, como por ejemplo ElTenedor, pero con un diseño mas moderno y atractivo. La pagina principal esta dividida en 3 secciones principales: la seccion de busqueda, la seccion de recomendados y la seccion de promociones. La seccion de navegacion contiene el logo de la aplicacion, el boton de login, el boton de registro, el boton de busqueda y el boton de registrar restaurante ademas contiene un buscador, un menu desplegable para filtrar por ciudad y un menu desplegable para filtrar por tipo de cocina. La seccion de recomendados contiene una lista de restaurantes cercanos al cliente con buena valoración. En la seccion de promociones se encuentan las 3 principales categorias de busqueda en las cuales se redije con el buscador a una busqueda con parametros ya ajustados. En la parte inferior de la pagina se encuentran los enlaces a las redes sociales de la aplicacion asi como los enlaces de ayuda.
 
 ![Método UX](../img/Website_Mockup.png)
 
