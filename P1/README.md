@@ -30,6 +30,10 @@
 ![Método UX](../img/Yolanda_experiencia.png) 
 
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
+
+![Método UX](../img/Usability_review.jpeg)
+
+>>>Una valoración de 68 sobre 100 indica que el sitio web tiene un rendimiento decente, pero aún hay espacio para mejorar. Hay algunas áreas problemáticas en el diseño o la funcionalidad que necesitan ser abordadas para mejorar la experiencia del usuario, como por ejemplo, el solapamiento de lementos en la UI. También utilizar guiones medios"-" para el nombre de la página es raro he incluso puede parecer un sitio web de scam.
 ----
 
 (valoración y conclusiones de esta etapa)
