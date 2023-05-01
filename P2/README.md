@@ -19,17 +19,21 @@
 
 ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Nuestra propuesta consiste en crear una página web donde la gente tanto que es de Granada como los turistas puedan buscar restaurantes donde poder comer. Pero no solo se va a poder ver información del restaurante, también buscamos que haya una fácil comunicación con el local para resolver dudas, reservar una mesa a una hora concreta si hay disponibilidad y ofrecer descuentos por el uso de nuestros servicios. 
+
+![Método UX](../img/Scope_canvas.png)
 
 ![Método UX](../img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Hemos decidido hacer la matriz de tareas/usuarios ya que tenemos un número elevado de tareas básicas que queremos realizar y nos podría ser más útil identificar cuales son las tareas que tienen prioridad o en las que debemos poner más esfuerzo para que sean cómodas, accesibles y fáciles de entender. 
+>>> 
+>>> Para hacer la matriz, primero buscamos las tareas principales que vamos a realizar en nuestra página. Una vez que tuvimos todas listadas, fijamos las personas como las dos que creamos en la práctica anterior (Yolanda y Marcos) y añadimos una tercera persona imaginaria basada en nuestra experiencia para obtener más datos. De esta forma, podemos saber que lo que más debemos trabajar es en el sistema de búsqueda, con un buen filtro que contemple todas las posibles opciones y en hacer un sistema de reserva intuitivo. Además, también tenemos que trabajar en añadir un mapa claro de donde se encuentra cada restaurante para facilitar a los turistas localizarlo y hacer que la comunicación entre el restaurante y el cliente sea lo más cómoda posible para ambas partes. 
 
+![Método UX](../img/Matriz_imagen.PNG)
 
 ![Método UX](../img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
 ![Método UX](../img/Website_Flowchart_Template.png)
 
 >>> Los términos seleccionados para etiquetar nuestra aplicación reflejan de manera concisa sus funciones y secciones principales, facilitando la navegación y el acceso rápido a áreas de interés. Estas etiquetas abarcan búsqueda de restaurantes, promociones, contenido relevante y soporte, ofreciendo una experiencia de usuario clara y coherente.
