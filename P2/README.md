@@ -1,7 +1,7 @@
 ## Paso 2. UX Design  
 
 
-![Método UX](./img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
 
@@ -23,19 +23,19 @@
 | Criticisms   | Yolanda         | A veces la página tarda mucho en cargar y se vuelve un poco frustrante.                            |
 | Criticisms   | Marcos          | He notado que algunos restaurantes tienen ofertas exclusivas en su sitio web y no en TheFork.      |
 
-![Método UX](./img/ScopeCanvas.png) 2.b ScopeCanvas
+![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Nuestra propuesta consiste en crear una página web donde la gente tanto que es de Granada como los turistas puedan buscar restaurantes donde poder comer. Pero no solo se va a poder ver información del restaurante, también buscamos que haya una fácil comunicación con el local para resolver dudas, reservar una mesa a una hora concreta si hay disponibilidad y ofrecer descuentos por el uso de nuestros servicios. 
 
-![Método UX](./img/scope_canvas.png)
+![Método UX](../img/Scope_canvas.png)
 
-![Método UX](./img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](../img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](./img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](../img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
@@ -46,7 +46,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](./img/Wireframes.png) 2.d Wireframes
+![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
