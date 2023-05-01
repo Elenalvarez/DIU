@@ -3,7 +3,9 @@
 ![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>>
+>>>La realización de un análisis competitivo en el que se compara nuestra empresa de tours con otras tres empresas de actividades es fundamental para comprender el panorama del mercado y posicionar mejor nuestra oferta de servicios. Al comparar nuestra página web con la de competidores de diferente calidad, obtenemos una perspectiva más amplia de las áreas en las que sobresalimos y aquellas en las que podemos mejorar. Por ejemplo en ninguna otra pagina encontramos la limitacion de poder registrar solo a 2 niños.
+
+![Método UX](../img/Competitor_Analysis_[DIU23].png) 
 
 ![Método UX](../img/Persona.png) 1.b Persona
 -----
