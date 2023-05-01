@@ -11,14 +11,17 @@
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
-
+| Categoría    | Usuario         | Comentario                                                                                         |
+|--------------|-----------------|----------------------------------------------------------------------------------------------------|
+| Likes        | Yolanda         | Me encanta la función de reservar directamente desde la página. ¡Muy conveniente!                   |
+| Likes        | Marcos        | La selección de restaurantes es excelente y me ha ayudado a descubrir nuevos lugares en mi ciudad.  |
+| Questions    | Yolanda          | ¿Puedo cancelar mi reserva si cambian mis planes?                                                 |
+| Questions    | Marcos           | ¿Cómo funciona el sistema de puntos para obtener descuentos?                                      |
+| Ideas        | Yolanda          | Sería genial que pudieran agregar filtros para buscar restaurantes veganos o vegetarianos.         |
+| Ideas        | Marcos           | Sugiero añadir una sección donde los usuarios puedan compartir sus experiencias culinarias.        |
+| Criticisms   | Yolanda         | A veces la página tarda mucho en cargar y se vuelve un poco frustrante.                            |
+| Criticisms   | Marcos          | He notado que algunos restaurantes tienen ofertas exclusivas en su sitio web y no en TheFork.      |
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
@@ -75,3 +78,4 @@ Término | Significado
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
+
