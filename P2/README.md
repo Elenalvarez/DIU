@@ -33,6 +33,7 @@
 -----
 
 >>> Hemos decidido hacer la matriz de tareas/usuarios ya que tenemos un número elevado de tareas básicas que queremos realizar y nos podría ser más útil identificar cuales son las tareas que tienen prioridad o en las que debemos poner más esfuerzo para que sean cómodas, accesibles y fáciles de entender. 
+>>> 
 >>> Para hacer la matriz, primero buscamos las tareas principales que vamos a realizar en nuestra página. Una vez que tuvimos todas listadas, fijamos las personas como las dos que creamos en la práctica anterior (Yolanda y Marcos) y añadimos una tercera persona imaginaria basada en nuestra experiencia para obtener más datos. De esta forma, podemos saber que lo que más debemos trabajar es en el sistema de búsqueda, con un buen filtro que contemple todas las posibles opciones y en hacer un sistema de reserva intuitivo. Además, también tenemos que trabajar en añadir un mapa claro de donde se encuentra cada restaurante para facilitar a los turistas localizarlo y hacer que la comunicación entre el restaurante y el cliente sea lo más cómoda posible para ambas partes. 
 
 ![Método UX](../img/Matriz_imagen.PNG)
