@@ -40,7 +40,7 @@
 
 >>>El mapa de empatía nos ha permitido analizar nuestra empresa desde la perspectiva de dos personas clave, poniéndonos en su lugar para comprender sus pensamientos y necesidades. Este enfoque nos ha ayudado a identificar áreas de mejora en nuestra oferta de servicios y comunicación, adaptándonos mejor a las expectativas de nuestros clientes y fortaleciendo nuestra propuesta de valor.
 
-![Método UX](../img/Usability_review.jpeg)
+![Método UX](../img/Empathy_Customer_Map_[DIU23].png)
 ----
 
 (valoración y conclusiones de esta etapa)
