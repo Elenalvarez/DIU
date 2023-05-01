@@ -4,7 +4,7 @@
 ![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> El Feedback Capture Grid es una herramienta útil para recopilar y organizar las opiniones de los usuarios de manera estructurada. Ayuda a identificar áreas de éxito, oportunidades de mejora y a comprender las necesidades y expectativas del usuario, permitiendo así optimizar la experiencia y fortalecer la propuesta de valor de nuestra aplicación. Estos son los principales aspectos que mas han llamado la atención de los usuarios.
 
 | Categoría    | Usuario         | Comentario                                                                                         |
 |--------------|-----------------|----------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@
 | Ideas        | Yolanda          | Sería genial que pudieran agregar filtros para buscar restaurantes veganos o vegetarianos.         |
 | Ideas        | Marcos           | Sugiero añadir una sección donde los usuarios puedan compartir sus experiencias culinarias.        |
 | Criticisms   | Yolanda         | A veces la página tarda mucho en cargar y se vuelve un poco frustrante.                            |
-| Criticisms   | Marcos          | He notado que algunos restaurantes tienen ofertas exclusivas en su sitio web y no en TheFork.      |
+| Criticisms   | Marcos          | He notado que algunos restaurantes tienen ofertas exclusivas en su sitio web y no en la aplicacion.      |
 
 ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
