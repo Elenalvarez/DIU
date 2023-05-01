@@ -34,6 +34,13 @@
 ![Método UX](../img/Usability_review.jpeg)
 
 >>>Una valoración de 68 sobre 100 indica que el sitio web tiene un rendimiento decente, pero aún hay espacio para mejorar. Hay algunas áreas problemáticas en el diseño o la funcionalidad que necesitan ser abordadas para mejorar la experiencia del usuario, como por ejemplo, el solapamiento de lementos en la UI. También utilizar guiones medios"-" para el nombre de la página es raro he incluso puede parecer un sitio web de scam.
+
+![Método UX](../img/empathyMap.png) 1.e Empathy Map
+----
+
+>>>El mapa de empatía nos ha permitido analizar nuestra empresa desde la perspectiva de dos personas clave, poniéndonos en su lugar para comprender sus pensamientos y necesidades. Este enfoque nos ha ayudado a identificar áreas de mejora en nuestra oferta de servicios y comunicación, adaptándonos mejor a las expectativas de nuestros clientes y fortaleciendo nuestra propuesta de valor.
+
+![Método UX](../img/Usability_review.jpeg)
 ----
 
 (valoración y conclusiones de esta etapa)
