@@ -1,4 +1,4 @@
-## DIU - Practica1, entregables
+## DIU - Practica1
 
 ![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
