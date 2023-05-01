@@ -32,16 +32,6 @@
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
->>>
-
-
-***BORRAR***
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
 (valoración y conclusiones de esta etapa)
 
 
