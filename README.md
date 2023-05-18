@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: Élite  Curso: 2022/23 
-Updated: 18/5/2023
+Updated: 19/5/2023
 
 Proyecto: 
 El plato
@@ -29,13 +29,12 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
-![Método UX](img/Competitor_Analysis_[DIU23].png)
+>>> !!PENDIENTE!!
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Yolanda ha sido escogida por representar a una persona de clase media, perteneciente a Granada y con una familia amplia. Por otro lado, Marcos representa a un turista joven y con discapacidad que es algo torpe con la tecnología. 
 
 ![Método UX](img/Yolanda_ficha.png)
 ![Método UX](img/Marcos_ficha.png)
@@ -44,6 +43,7 @@ Miembros
 ----
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> La experiencia de Yolanda se basa en la imposibilidad de poder reservar un tour para más de dos menores, algo habitual en familias con varios niños pequeños. La de Marcos es una situación más amena, con solo una pequeña dificultad para encontrar el botón de reserva, algo que puede ocurrir con asiduidad. 
 
 ![Método UX](img/Yolanda_experiencia.png)
 ![Método UX](img/Marcos_experiencia.png)
@@ -52,11 +52,9 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
-![Método UX](img/Usability_review.jpeg)
+>>> - Enlace al documento:  P1/Usability-review.xlsx
+>>> - Valoración final (numérica): 68
+>>> - Comentario sobre la valoración:  Aunque es una valoración decente, aún queda mucho margen de mejora con respecto al diseño y funcionalidad. Un claro ejemplo es el error de solapamiento de elementos en la interfaz de usuario. 
 
 ## Paso 2. UX Design  
 
