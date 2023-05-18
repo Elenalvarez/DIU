@@ -8,6 +8,10 @@
 
 ## Landing Page
 
+>>> En primer lugar tenemos la barra de arriba que es donde estará el logo de la web y también los iconos que nos lleven a las diferentes funcionalidades implementadas. En la cabecera principal hemos situado nuestro slogan con la font de título y debajo de él estaría el buscador por nombre y/o ciudad. A un lado habría una imagen que reprensente bien la comida granadina, con la distribución de plato, cuchillo y tenedor que haga recordar a nuestro logo. 
+>>> En el cuerpo principal de la página, encontraremos una rueda de restaurantes seleccionados para la persona que está entrando en la web con la intención de llamar su atención de acuerdo a sus anteriores búsquedas para encontrar nuevos restaurantes o mostrar sus favoritos directamente. Debajo de esto estaría la sección de destacados, donde se mostrarían el restaurante más reservado, el mejor valorado y el que presente una nueva oferta. Esta parte se podría ir cambiando cada x días para que esté actualizado lo mejor posible. 
+>>> Por último, estaría el pie de página con toda la información de contacto pertinente, las redes sociales y enlaces para descargar la aplicación. 
+
 ![Método UX](../img/Landing_Page.png)
 
 ## Mockup: LAYOUT HI-FI
