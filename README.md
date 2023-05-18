@@ -2,27 +2,23 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: Élite  Curso: 2022/23 
-Updated: 22/3/2023
+Updated: 18/5/2023
 
 Proyecto: 
-Titanio
+El plato
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> El plato es una web que permitará visualizar información sobre los restaurantes granadinos, permitiendo realizar reservas, consultar dudas con los restaurantes y valorar la experiencia del usuario. Además, por usar nuestra app ofreceremos vales de descuento. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Método UX](img/El_plato.png)
 
 Miembros
  * :bust_in_silhouette:   Elena Álvarez Sánchez    :octocat:     
  * :bust_in_silhouette:  Carlos Moreno Villarrubia     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -34,15 +30,23 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+![Método UX](img/Competitor_Analysis_[DIU23].png)
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+![Método UX](img/Yolanda_ficha.png)
+![Método UX](img/Marcos_ficha.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+![Método UX](img/Yolanda_experiencia.png)
+![Método UX](img/Marcos_experiencia.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -52,6 +56,7 @@ Miembros
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+![Método UX](img/Usability_review.jpeg)
 
 ## Paso 2. UX Design  
 
@@ -61,6 +66,17 @@ Miembros
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+
+| Categoría    | Usuario         | Comentario                                                                                         |
+|--------------|-----------------|----------------------------------------------------------------------------------------------------|
+| Likes        | Yolanda         | Me encanta la función de reservar directamente desde la página. ¡Muy conveniente!                   |
+| Likes        | Marcos        | La selección de restaurantes es excelente y me ha ayudado a descubrir nuevos lugares en mi ciudad.  |
+| Questions    | Yolanda          | ¿Puedo cancelar mi reserva si cambian mis planes?                                                 |
+| Questions    | Marcos           | ¿Cómo funciona el sistema de puntos para obtener descuentos?                                      |
+| Ideas        | Yolanda          | Sería genial que pudieran agregar filtros para buscar restaurantes veganos o vegetarianos.         |
+| Ideas        | Marcos           | Sugiero añadir una sección donde los usuarios puedan compartir sus experiencias culinarias.        |
+| Criticisms   | Yolanda         | A veces la página tarda mucho en cargar y se vuelve un poco frustrante.                            |
+| Criticisms   | Marcos          | He notado que algunos restaurantes tienen ofertas exclusivas en su sitio web y no en la aplicacion.      |
 
 
  Interesante | Críticas     
@@ -79,10 +95,14 @@ Miembros
 ----
 >>> Propuesta de valor 
 
+![Método UX](img/Scope_canvas.png)
+
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+
+![Método UX](img/Matriz_imagen.PNG)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -101,6 +121,8 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+![Método UX](../img/Website_Flowchart_Template.png)
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -113,12 +135,15 @@ Término | Significado
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+![Método UX](../img/Moodboard.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
 >>> Plantear Landing Page 
+
+![Método UX](../img/Landing_Page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
