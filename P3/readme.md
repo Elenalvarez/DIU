@@ -15,7 +15,7 @@
 ![Método UX](../img/Landing_Page.png)
 
 ## Mockup: LAYOUT HI-FI
-![Método UX](../img/LAYOUT HI-FI/Buscador.png)
+![Método UX](../img/LAYOUT%20HI-FI/Buscador.png)
 ![Método UX](../img/LAYOUT HI-FI/Landing Page.png)
 ![Método UX](../img/LAYOUT HI-FI/Logeo.png)
 ![Método UX](../img/LAYOUT HI-FI/Pagina Restaurante.png)
