@@ -129,9 +129,7 @@ Miembros
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>>Nuestro logotipo está hecho con canva, una aplicación de edición y diseño de imágenes que incluye patrones y tamaños determinados para numerosos casos. En esta web, los logotipos están definidos como imagenes cuadradas de 500x500 px, una resolución adecuada ya que va a estar en una esquina y no va a ser muy grande. Si en las redes sociales hiciese falta, se puede rehacer a una resolución de 1000x1000 como icono de perfil o incluso se puede utilizar otros patrones de la app para hacer posts. 
 
 ![Método UX](../img/Moodboard.png)
 
@@ -139,20 +137,19 @@ Miembros
 ----
 
 
->>> Plantear Landing Page 
+>>> En primer lugar tenemos la barra de arriba que es donde estará el logo de la web y también los iconos que nos lleven a las diferentes funcionalidades implementadas. En la cabecera principal hemos situado nuestro slogan con la font de título y debajo de él estaría el buscador por nombre y/o ciudad. A un lado habría una imagen que reprensente bien la comida granadina, con la distribución de plato, cuchillo y tenedor que haga recordar a nuestro logo. En el cuerpo principal de la página, encontraremos una rueda de restaurantes seleccionados para la persona que está entrando en la web con la intención de llamar su atención de acuerdo a sus anteriores búsquedas para encontrar nuevos restaurantes o mostrar sus favoritos directamente. Debajo de esto estaría la sección de destacados, donde se mostrarían el restaurante más reservado, el mejor valorado y el que presente una nueva oferta. Esta parte se podría ir cambiando cada x días para que esté actualizado lo mejor posible. Por último, estaría el pie de página con toda la información de contacto pertinente, las redes sociales y enlaces para descargar la aplicación.
 
 ![Método UX](../img/Landing_Page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> 
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
