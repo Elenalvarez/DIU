@@ -72,12 +72,12 @@ Para ejecutar el diseño, hemos empleado patrones y elementos muy conocidos:
 ## Mockup: LAYOUT HI-FI
 
 En nuestro mockup hemos desarrollado:
-    *Landing page
-    *Buscador
-    *Logueo
-    *Pagina del restaurante
+    * Landing page
+    * Buscador
+    * Logueo
+    * Pagina del restaurante
 
-Aunque el logueo no es muy importante se ha elaborado ya que es necesario para poder llegar a reservar
+Aunque el logueo no es muy importante se ha elaborado ya que es necesario para poder llegar a reservar.
 
 Buscador
 ----------------------
@@ -92,7 +92,13 @@ Pagina del restaurante
 ----------------------
 ![Método UX](../img/LAYOUT%20HI-FI/Pagina%20Restaurante.png)
 
-Enlace al prototipo: https://www.figma.com/proto/tQpGePuZSBLt27I7yvmmvi/LAYOUT-HI-FI?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
+Flujo de eventos del prototipo
+----------------------
+
+
+https://github.com/Elenalvarez/DIU/assets/92320280/7cdd7700-1bce-48e4-a361-92377a253741
+
+
 
 ## Documentación: Publicación del Case Study
 
