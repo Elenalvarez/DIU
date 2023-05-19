@@ -131,7 +131,7 @@ Miembros
 
 >>>Nuestro logotipo está hecho con canva, una aplicación de edición y diseño de imágenes que incluye patrones y tamaños determinados para numerosos casos. En esta web, los logotipos están definidos como imagenes cuadradas de 500x500 px, una resolución adecuada ya que va a estar en una esquina y no va a ser muy grande. Si en las redes sociales hiciese falta, se puede rehacer a una resolución de 1000x1000 como icono de perfil o incluso se puede utilizar otros patrones de la app para hacer posts. 
 
-![Método UX](img/Moodboard.png)
+![Método UX](img/Moodboard-P3.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
