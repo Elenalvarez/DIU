@@ -158,8 +158,7 @@ Miembros
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+![Método UX](P3/▶ Page 1 - LAYOUT HI-FI — Mozilla Firefox 2023-05-19 10-57-37.mp4)
 
 
 ## Paso 4. Evaluación 
