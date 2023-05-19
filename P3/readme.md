@@ -15,7 +15,12 @@
 ![Método UX](../img/Landing_Page.png)
 
 ## Mockup: LAYOUT HI-FI
+![Método UX](../img/LAYOUT HI-FI/Buscador.png)
+![Método UX](../img/LAYOUT HI-FI/Landing Page.png)
+![Método UX](../img/LAYOUT HI-FI/Logeo.png)
+![Método UX](../img/LAYOUT HI-FI/Pagina Restaurante.png)
 
+Enlace al prototipo: https://www.figma.com/proto/tQpGePuZSBLt27I7yvmmvi/LAYOUT-HI-FI?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
 
 ## Documentación: Publicación del Case Study
 
