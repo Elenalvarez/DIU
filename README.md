@@ -152,7 +152,7 @@ Miembros
 ----
 
 >>> Aquí está el enlace sonde se puede hacer una prueba interactiva de cómo sería el funcionamiento de nuestra página: https://www.figma.com/proto/tQpGePuZSBLt27I7yvmmvi/LAYOUT-HI-FI?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
-
+>>> Y aqui un video de demostracion https://github.com/Elenalvarez/DIU/assets/92320280/7cdd7700-1bce-48e4-a361-92377a253741
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
