@@ -144,12 +144,14 @@ Miembros
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> 
+>>> Nuestra página tiene 6 colores, el blanco, el negro y 4 tonalidades de verde. Los colores principales son el verde más clarito y el más oscuro para generar un buen contraste. Para la tipografía hemos escogido 3 diferentes, aunque todas ellas pensadas para que sean claras y para que combinen bien juntas. Los iconos también son claros y minimalistas. 
+>>> Buscamos que nuestro diseño sea adaptable y se vea bien en móvil ya que creemos que es donde más se van a realizar las búsquedas y reservas. También tenemos como objetivo que todos los elementos estén claramente diferenciados y tengan el mismo espacio e información que sus símiles para crear una coherencia visual. Para lograr también una consistencia, hemos buscado el balance y la simetría en su conjunto global. Con el fin de llamar la atención del usuario a algunas partes de la web, hemos cambiado el uso de los colores, siempre buscando que el contrate sea el mayor posible. 
+>>> Los patrones de diseño que hemos utilizado son: la barra de navegación flotante, menús despegables para las reservas, un carrusel de restaurantes destacados y un mapa de la zona con los restaurantes marcados. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> 
+>>> Aquí está el enlace sonde se puede hacer una prueba interactiva de cómo sería el funcionamiento de nuestra página: https://www.figma.com/proto/tQpGePuZSBLt27I7yvmmvi/LAYOUT-HI-FI?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
