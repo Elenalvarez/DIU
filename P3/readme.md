@@ -16,9 +16,9 @@
 
 ## Mockup: LAYOUT HI-FI
 ![Método UX](../img/LAYOUT%20HI-FI/Buscador.png)
-![Método UX](../img/LAYOUT HI-FI/Landing Page.png)
-![Método UX](../img/LAYOUT HI-FI/Logeo.png)
-![Método UX](../img/LAYOUT HI-FI/Pagina Restaurante.png)
+![Método UX](../img/LAYOUT%20HI-FI/Landing%20Page.png)
+![Método UX](../img/LAYOUT%20HI-FI/Logeo.png)
+![Método UX](../img/LAYOUT%20HI-FI/Pagina%20Restaurante.png)
 
 Enlace al prototipo: https://www.figma.com/proto/tQpGePuZSBLt27I7yvmmvi/LAYOUT-HI-FI?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
 
