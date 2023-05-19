@@ -75,30 +75,22 @@ Miembros
 | Ideas        | Marcos           | Sugiero añadir una sección donde los usuarios puedan compartir sus experiencias culinarias.        |
 | Criticisms   | Yolanda         | A veces la página tarda mucho en cargar y se vuelve un poco frustrante.                            |
 | Criticisms   | Marcos          | He notado que algunos restaurantes tienen ofertas exclusivas en su sitio web y no en la aplicacion.      |
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> Nuestra propuesta se basa en ofrecer un buen catálogo de restaurantes con los que poder hacer reservas de forma rápida y fácil, obtener descuentos y contactar con dichos restaurantes en caso de tener dudas o algún tipo de problema que comentar. 
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>>  En esta imagen, están todas nuestras propuestas y planes con respecto al proyecto con mayor detalle, pensando en una ampliación de servicio para toda Andalucía y tener una base sólida de usuarios por ejemplo. 
 
 ![Método UX](img/Scope_canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> En esta imagen podemos ver las principales tareas que se realizan en nuestra web, siendo las más importantes la búsqueda, filtración y reserva del restaurante. Además, no podemos olvidarnos de trabajar en un mapa claro y limpio para el usuario y en la comunicación fácil y rápida entre el restaurante y el usuario. 
 
 ![Método UX](img/Matriz_imagen.PNG)
 
@@ -107,17 +99,25 @@ Miembros
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Término                   | Significado                                                                                        |
+|---------------------------|----------------------------------------------------------------------------------------------------|
+| Login/Sing in             | Permite a los usuarios acceder/registrase en la plataforma con su cuenta de la página o con su cuenta de Google o IOS. |
+| Search/Browse             | Permite a los usuarios buscar y explorar restaurantes por ciudad, nombre o tipo de cocina y el resto de la pagina web asi como sus blogs         |
+| Nuevas Ofertas            | Muestra las promociones y descuentos disponibles en restaurantes seleccionados.                    |
+| Reservar                  | Permite a los usuarios reservar una mesa en un restaurante.                                        |
+| Más reservados            | Presenta una selección de los restaurantes más reservados.                                         |
+| Registra Restaurante      | Permite a los restaurantes registrarse en la plataforma para que los usuarios puedan reservar.     |
+| Mejor valorado            | Presenta una selección de los restaurantes mejor valorados y más reservados.                       |
+| Blog                      | Contiene artículos y noticias relacionadas con restaurantes, gastronomía y tendencias culinarias.  |
+| About Us                  | Incluye información sobre la historia de la empresa, el equipo, términos de uso y política de privacidad. |
+| Help                      | Ofrece recursos de ayuda como preguntas frecuentes y opciones de contacto para los usuarios.       |
+| Social Media              | Enlaces a las redes sociales de la aplicacion para que los usuarios puedan seguir y conectarse.          |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Este mockup es muy similar al de otras paginas que ya existen, como por ejemplo ElTenedor. La pagina principal esta dividida en 3 secciones principales: la sección de búsqueda, la sección de recomendados y la sección de promociones. La sección de navegación contiene el logo de la aplicación, el botón de login, el botón de registro, el botón de busqueda y el botón de registrar restaurante. Además contiene un buscador, un menú desplegable para filtrar por ciudad y un menú desplegable para filtrar por tipo de cocina. La sección de recomendados contiene una lista de restaurantes cercanos al cliente con buena valoración. En la seccion de promociones se encuentan las 3 principales categorias de busqueda en las cuales se redije con el buscador a una búsqueda con parametros ya ajustados. En la parte inferior de la pagina se encuentran los enlaces a las redes sociales de la aplicación así como los enlaces de ayuda.
 
 ![Método UX](../img/Website_Flowchart_Template.png)
 
