@@ -33,7 +33,9 @@ En términos de tipografía, hemos elegido letras claras y fácilmente legibles.
 
 Las tipografías que se utilizarán son:
 
-    completar
+    Anton (48px): Para títulos y cabeceras relevantes
+    Belleza (25px): Para subtítulos y los nombres de los restaurantes
+    Libre Baskerville (12px): Para el resto de texto de la página. 
 
 Los iconos que se utilizarán son de Ionicons, que ofrece iconos minimalistas en formato SVG y colores neutros.
 
