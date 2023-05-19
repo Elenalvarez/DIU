@@ -14,10 +14,80 @@
 
 ![Método UX](../img/Landing_Page.png)
 
+#Guía de Estilo
+----------------
+Basándonos en el Moodboard, hemos definido los elementos fundamentales de diseño de nuestra aplicación.
+
+La paleta de colores que usaremos será:
+
+    Verde pálido: #EDF1D6, nos proporciona una sensación de frescura y tranquilidad.
+    Verde oscuro: #384733, nos transmite elegancia y formalidad.
+    Negro: #000000, nos aporta un toque de sofisticación y es perfecto para proporcionar contraste.
+    Verde medio: #609966, es una tonalidad relajante y armoniosa, ideal para proporcionar una sensación de equilibrio.
+    Verde claro: #9DC08B, evoca naturaleza y crecimiento, ideal para representar la variedad y crecimiento de nuestras ofertas.
+    Blanco: #FFFFFF, que aporta limpieza y luminosidad al diseño.
+
+Estos seis colores forman la base del estilo principal de nuestra aplicación, permitiendo una diversidad de combinaciones y sombras. Gracias a la armonía entre estos colores, podremos introducir secciones con una diversidad de colores sin preocuparnos por el contraste.
+
+En términos de tipografía, hemos elegido letras claras y fácilmente legibles. Los iconos que se han escogido son minimalistas y sencillos, lo que nos permite cambiar sus colores para que se adapten a nuestras necesidades.
+
+Las tipografías que se utilizarán son:
+
+    completar
+
+Los iconos que se utilizarán son de Ionicons, que ofrece iconos minimalistas en formato SVG y colores neutros.
+
+Diseño del Layout
+--------------------
+En cuanto al diseño del layout, considerando que nuestro objetivo es desarrollar una aplicación web responsive que se adapte a dispositivos móviles, hemos establecido varias pautas de diseño para lograrlo.
+
+Claridad Visual
+-------------------
+Nuestro diseño busca que los objetos cercanos se perciban como un único estímulo y que cada elemento esté bien delimitado visualmente. De esta forma, la percepción del usuario será uniforme y se enfocará en los elementos más destacados.
+
+Formato y Consistencia Visual
+-----------------------------------
+Hemos logrado la consistencia visual al emplear de manera uniforme nuestra paleta de colores y al mantener un estilo consistente en las diferentes páginas. A esto se suma la simetría y el balance, fundamentos de nuestro diseño al no dejar grandes espacios vacíos y mantener un eje de simetría central.
+
+Para dirigir la atención del usuario a las áreas más relevantes, hemos buscado una experiencia visual rica en contenido, sin olvidar la acentuación, lograda al emplear el verde oscuro como contraste principal sobre el negro.
+
+Los iconos nos han ayudado a definir, clarificar y colorear las principales áreas de uso donde los usuarios pasarán más tiempo.
+
+Patrones de Diseño
+----------------------
+Para ejecutar el diseño, hemos empleado patrones y elementos muy conocidos:
+
+    Barra de navegación flotante
+    Menús desplegables para la selección de fecha, número de personas y hora.
+    Carrusel de imágenes para mostrar las ofertas de los restaurantes
+    Plugin de maps para la ubicación de los restaurantes.
+    Tags identificativos para las actividades
+    ETC
+
+.
+
+
 ## Mockup: LAYOUT HI-FI
+
+En nuestro mockup hemos desarrollado:
+    *Landing page
+    *Buscador
+    *Logueo
+    *Pagina del restaurante
+
+Aunque el logueo no es muy importante se ha elaborado ya que es necesario para poder llegar a reservar
+
+Buscador
+----------------------
 ![Método UX](../img/LAYOUT%20HI-FI/Buscador.png)
+Landing Page
+----------------------
 ![Método UX](../img/LAYOUT%20HI-FI/Landing%20Page.png)
+Logueo
+----------------------
 ![Método UX](../img/LAYOUT%20HI-FI/Logeo.png)
+Pagina del restaurante
+----------------------
 ![Método UX](../img/LAYOUT%20HI-FI/Pagina%20Restaurante.png)
 
 Enlace al prototipo: https://www.figma.com/proto/tQpGePuZSBLt27I7yvmmvi/LAYOUT-HI-FI?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
