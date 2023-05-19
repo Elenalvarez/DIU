@@ -72,10 +72,10 @@ Para ejecutar el diseño, hemos empleado patrones y elementos muy conocidos:
 ## Mockup: LAYOUT HI-FI
 
 En nuestro mockup hemos desarrollado:
-    * Landing page
-    * Buscador
-    * Logueo
-    * Pagina del restaurante
++ Landing page
++ Buscador
++ Logueo
++ Pagina del restaurante
 
 Aunque el logueo no es muy importante se ha elaborado ya que es necesario para poder llegar a reservar.
 
