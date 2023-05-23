@@ -28,8 +28,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
->>> !!PENDIENTE!!
+>>> Analizando una página de shows flamencos(La alboleá), otra de talleres artesanales (Artesanía Nazarí) y otra de tours por todo el mundo (freetour), nos dimos cuenta de las capacidades que tienen nuestros competidores. Sobre todo, la página de tours por el mundo es la que más calidad presenta. Sus actividades son muy variadas y de buena calidad, presentan una página sencilla, intuitiva y rápida, con un buen sistema de navegación entre ella y con muy buenas reviews. Este debería ser uno de nuestros modelos a seguir. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
