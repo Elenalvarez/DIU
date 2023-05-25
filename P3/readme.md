@@ -96,7 +96,7 @@ Flujo de eventos del prototipo
 ----------------------
 
 
-https://github.com/Elenalvarez/DIU/assets/92320280/7cdd7700-1bce-48e4-a361-92377a253741
+https://github.com/Elenalvarez/DIU/assets/92320280/66d29b1f-6d4e-430c-97ce-84d41fdff859
 
 
 
