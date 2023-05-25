@@ -156,7 +156,11 @@ Miembros
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-https://github.com/Elenalvarez/DIU/assets/92320280/7cdd7700-1bce-48e4-a361-92377a253741
+
+
+https://github.com/Elenalvarez/DIU/assets/92320280/7e619401-7ca9-42a7-a8bc-48f43c8e0be3
+
+
 
 ## Paso 4. Evaluación 
 
